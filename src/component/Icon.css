@@ -1,0 +1,47 @@
+.footer{
+    display: flex;
+    position: bottom;
+    margin: 1rem auto;
+    /* grid-template-columns: 1fr 1fr 1fr 1fr 1fr; */
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+.footer .footerDiv{
+    padding: 0 0.7rem;
+}
+.footer .iconP{
+    color: #be2545;
+    font-weight: 700;
+}
+.market{
+    position: fixed;
+    margin: 6rem auto;
+    text-align: center;
+    font-size: 4rem;
+    box-sizing: border-box;
+}
+.earn{
+    position: fixed;
+    margin: 0 auto;
+    height: 50vh;
+    overflow: hidden;
+    text-align: center;
+    font-size: 4rem;
+    /* box-sizing: border-box; */
+}
+.activity{
+    position: fixed;
+    margin: 6rem auto;
+    text-align: center;
+    font-size: 4rem;
+    box-sizing: border-box;
+}
+.wallet{
+    position: fixed;
+    margin: 6rem auto;
+    text-align: center;
+    font-size: 4rem;
+    box-sizing: border-box;
+}
